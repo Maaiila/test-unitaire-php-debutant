@@ -1,0 +1,15 @@
+{
+    "name": "maaiila/test-unitaire-php-debutant",
+    "autoload": {
+        "psr-4": {
+            "Maaiila\\TestUnitairePhpDebutant\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maaiila",
+            "email": "maila.zirari@laplateforme.io"
+        }
+    ],
+    "require": {}
+}
