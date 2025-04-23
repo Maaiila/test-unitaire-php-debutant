@@ -22,5 +22,7 @@ Création de la class Math
 Lancement du test MathTest
 ![capture](images/phpmathtest.png)
 
+Echec du test MathTest
+![capture](images/echectest.png)
 
 
