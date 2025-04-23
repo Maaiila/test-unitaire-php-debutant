@@ -2,7 +2,8 @@
 
 ## initialiser Composer
 
+![capture](images/composerinit.png)
+
 ```bash
 composer init
 
-![capture](images/composerinit.png)
