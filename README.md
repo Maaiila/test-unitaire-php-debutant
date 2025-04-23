@@ -19,5 +19,8 @@ composer require --dev phpunit/phpunit
 Création de la class Math
 ![capture](images/math.png)
 
+Lancement du test MathTest
+![capture](images/phpmathtest.png)
+
 
 

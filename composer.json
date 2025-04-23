@@ -2,7 +2,8 @@
     "name": "maaiila/test-unitaire-php-debutant",
     "autoload": {
         "psr-4": {
-            "Maaiila\\TestUnitairePhpDebutant\\": "src/"
+            "Src\\": "src/"
+
         }
     },
     "authors": [
