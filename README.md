@@ -6,7 +6,7 @@
 
 ```bash
 composer init
-
+```
 
 ## installer phpUnit
 
@@ -14,6 +14,7 @@ composer init
 
 ```bash
 composer require --dev phpunit/phpunit
+```
 
 
 
