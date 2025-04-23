@@ -16,5 +16,8 @@ composer init
 composer require --dev phpunit/phpunit
 ```
 
+Création de la class Math
+![capture](images/math.png)
+
 
 
